@@ -37,7 +37,7 @@ In every file you find links to the respective playlist and a table of songs wit
 - The Third:
     - [106.66 The Blood](Saints%20Row/The%20Third/106.66%20The%20Blood.md)
     - [K12 97.6](Saints%20Row/The%20Third/K12%2097.6.md)
-    - [Klassic 102.3]Saints%20Row/The%20Third/Klassic%20102.4.md()
+    - [Klassic 102.3](Saints%20Row/The%20Third/Klassic%20102.4.md)
 - IV:
     - [102.4 Klassic FM](Saints%20Row/IV/102.4%20Klassic%20FM.md)
     - [K12 97.6](Saints%20Row/IV/K12%2097.6.md)
