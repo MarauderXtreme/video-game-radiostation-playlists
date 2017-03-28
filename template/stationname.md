@@ -2,10 +2,10 @@
 
 ## Playlists
 
-| Spotify | Apple |
-| ------- | ----- |
-| [Open]() | []() |
-| [Embed]() |  |
+| Spotify   | Apple |
+| --------- | ----- |
+| [Open]()  | []()  |
+| [Embed]() |       |
 
 ## Titles
 
@@ -13,5 +13,5 @@
 [Use (✓) to indicate that it is not the version from the game but a similar]: #
 [Use ? if you are not sure if the version is correct]: #
 
-| Title                          | Artist             | On Spotify | On Apple |
-| ------------------------------ | ------------------ | ---------- | -------- |
+| Title | Artist | On Spotify | On Apple |
+| ----- | ------ | ---------- | -------- |
