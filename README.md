@@ -1,4 +1,4 @@
-# Game Radio Playlist
+# Video Game Radio Playlists
 
 > I can't leave this car because the song is so good.    
 \- Gamer
@@ -9,7 +9,7 @@ Ever wanted to hear your favourite radio station from a video game IRL?
 Well I wanted.
 
 So I decided to recreate my favourite radio stations on `Spotify`. [@h4llow3En](https://github.com/h4llow3En) additionally offered to create them on `Apple Music`.  
-So here we bring you a list of `Game Radio Station`.
+So here we bring you a list of `Video Game Radio Station`.
 
 ## What is in it
 
@@ -59,11 +59,11 @@ Because of that there are indicators in the lists.
 ## Contribute
 
 You found a mistake in one of the lists or a better version of a song or the song is now available. [Let us know](https://github.com/MarauderXtreme/game-radio-playlists/issues/new)  
-Feele free to [add](https://github.com/MarauderXtreme/game-radio-playlists/compare) other radio station and submit them. There is a template which you can use to add other radio stations.
+Feel free to [add](https://github.com/MarauderXtreme/game-radio-playlists/compare) other radio station and submit them. There is a template which you can use to add other radio stations.
 
 ## The Future
 
-For now we will continue to add radio stations we like. You are welcome to contribute playlists on other platforms like `Deezer` or `Amazon Music`.
+For now we will continue to add radio stations we like. You are welcome to contribute playlists on other platforms like `Deezer` or `Amazon Music` if this is somehow possible. I don't think, this list qualifies as awesome list, since it is more like a plain list than only `awesome` things. (Well, at least I think these Radio Stations are awesome.)
 
 ## Is it any good?
 
