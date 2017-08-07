@@ -26,6 +26,7 @@ In every file you find links to the respective playlist and a table of songs wit
     - [FlyLo FM](Grand%20Theft%20Auto/V/FlyLo%20FM.md)
     - [Los Santos Rock Radio](Grand%20Theft%20Auto/V/Los%20Santos%20Rock%20Radio.md)
     - [Soulwax FM](Grand%20Theft%20Auto/V/Soulwax%20FM.md)
+    - [Vinewood Boulevard Radio](Grand%20Theft%20Auto/V/Vinewood%20Boulevard%20Radio.md)
 
 #### Saints Row
 - Saints Row:
