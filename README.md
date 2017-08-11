@@ -46,16 +46,18 @@ In every file you find links to the respective playlist and a table of songs wit
 
 #### Sleeping Dogs
 - [Roadrunner Records](Sleeping%20Dogs/Roadrunner%20Records.md)
+- [Warp Radio](Sleeping%20Dogs/Warp%20Radio.md)
 
 ## Weakness
 
-Unfortunately there are songs that are not on `Spotify` or `Apple Music` so some of the Playlists are incomplete. Another thing is, that some of the specific mixes are not available. So we try to provide a similar version if the song. Sometimes songs are under some kind of region lock I guess. (At least on `Spotify` you can see songs that are not available) For those songs we also try to provide a similar version.
+Unfortunately there are songs that are not on `Spotify` or `Apple Music` so some of the Playlists are incomplete. Another thing is, that some of the specific mixes are not available. So we try to provide a similar version if the song. Sometimes songs are under some kind of region lock I guess. (At least on `Spotify` you can see songs that are not available) For those songs we also try to provide a similar version. Sometimes songs get removed from platforms. If the documents state, the song is available but you cannot find it, it is probably that case. (On `Spotify` there is a hidden option to show unavailable songs. This can help you identify the problem.)
 
 Because of that there are indicators in the lists.  
 * ✓ Indicates that the song is available on the specific platform
 * (✓) Indicates that not the correct version of the song is available on the specific platform
 * ? Indicates an unclear status about the version of the song (This is applied to most of the classical pieces)
 * ✗ Indicates the song is missing on the platform
+* (✗) Indicates the song was probably removed
 
 ## Contribute
 
