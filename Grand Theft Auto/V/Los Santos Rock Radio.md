@@ -12,10 +12,10 @@ Spotify                                                                         
 Title                                   | Artist                             | On Spotify | On Apple Music
 --------------------------------------- | ---------------------------------- | ---------- | --------------
 Lonely Is the Night                     | Billy Squier                       | ✓          | ✓
-Hollywood Nights                        | Bob Seger & The Silver Bullet Band | ✗          | ✓
+Hollywood Nights                        | Bob Seger & The Silver Bullet Band | ✓          | ✓
 Night Moves                             | Bob Seger & The Silver Bullet Band | ✓          | ✗
 If you leave me now                     | Chicago                            | ✓          | ✓
-Photograph                              | Def Leppard                        | ✓          | (✓)
+Photograph                              | Def Leppard                        | (✓)        | (✓)
 Heartbeat                               | Don Johnson                        | ✓          | ✓
 Saturday Night's alright for fighting   | Elton John                         | ✓          | ✓
 Dirty white Boy                         | Foreigner                          | ✓          | ✓
@@ -26,7 +26,7 @@ I'm free (Heaven helps the Man)         | Kenny Loggins                      | �
 I don't care anymore                    | Phil Collins                       | ✓          | ✓
 Radio Ga Ga                             | Queen                              | ✓          | ✓
 Big Log                                 | Robert Plant                       | ✓          | ✓
-All the Things she said                 | Simple Minds                       | ✗          | ✓
+All the Things she said                 | Simple Minds                       | ✓          | ✓
 Ogdens' Nut gone flake                  | Small Faces                        | ✓          | ✓
 Higher Love                             | Steve Winwood                      | ✓          | ✓
 I can't wait                            | Stevie Nicks                       | ✓          | ✓

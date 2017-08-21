@@ -19,7 +19,7 @@
 | El Sucu Tucu                            | Matias Aguayo                | ✗          | ✓              |
 | Naive Response                          | Daniel Avery                 | ✓          | ✓              |
 | Gabriel (Soulwax Remix) feat. Valentina | Joe Goddard                  | ✓          | ✓              |
-| Body Music (Original Mix)               | Daniel Maloso                | (✓)        | ✓              |
+| Body Music (Original Mix)               | Daniel Maloso                | ✓          | ✓              |
 | Lazer Beams                             | Green Velvet & Harvard Bass  | ✗          | ✓              |
 | Tryouts                                 | Zombie Nation                | (✓)        | ✓              |
 | Nothing but Pleasure                    | Tom Rowlands                 | ✓          | ✓              |

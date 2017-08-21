@@ -27,5 +27,5 @@ The Enemy                                        | D.O.A.              | ✓    
 John Wayne was a Nazi                            | MDC                 | ✓          | ✓
 Don't push me around                             | The Zeros           | ✓          | ✓
 Los Angeles                                      | X                   | ✓          | ✓
-I don't need Society                             | D.R.I.              | (✓)        | ✓
+I don't need Society                             | D.R.I.              | ✓          | ✓
 Linda Blair                                      | Redd Kross          | ✓          | ✓

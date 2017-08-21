@@ -17,7 +17,7 @@
 | Messages (feat. Simon Lord)         | Dillon Francis             | ✓          |          |
 | Express Yourself (feat. Nicky da B) | Diplo                      | ✓          |          |
 | Bird Machine (feat. Alesia)         | DJ Snake                   | ✓          |          |
-| I just go                           | Djemba Djemba              | ✗          |          |
+| I just go                           | Djemba Djemba              | ✓          |          |
 | Swoop                               | ETC!ETC! & Brillz          | ✓          |          |
 | Bueller (feat. Whiskey Pete)        | ETC!ETC!, Brillz and Diplo | ✓          |          |
 | Booty Bounce (feat. DJ Funk)        | GTA                        | ✓          |          |
@@ -25,6 +25,6 @@
 | Underdogs (feat. RiFF RAFF)         | LIZ                        | ✓          |          |
 | Rookie of the Year                  | RiFF RAFF                  | ✓          |          |
 | Beer                                | Three Loco                 | ✓          |          |
-| Cray (feat. Riff Raff)              | Toadally Krossed Out Cray  | ✗          |          |
+| Cray (feat. Riff Raff)              | Toadally Krossed Out Cray  | ✓          |          |
 | W.O.L.F.                            | Yellow Claw                | ✓          |          |
 | Demons                              | Zeds Dead                  | ✓          |          |

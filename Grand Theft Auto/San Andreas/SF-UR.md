@@ -24,6 +24,6 @@ Can you feel it?                             | Mr. Fingers            | ✓     
 Move your Body                               | Marshall Jefferson     | ✓          | ✓
 This is Acid (A new Dance Craze) (K & T Mix) | Maurice                | ✓          | (✓)
 Weekend                                      | The Todd Terry Project | ✓          | ✓
-The Morning after (Sunrise Mix)              | Fallout                | ✗          | ✓
+The Morning after (Sunrise Mix)              | Fallout                | ✓          | ✓
 I'll be your Friend                          | Robert Owens           | ✓          | ✓
 I need a Rhythm                              | The 28th Street Crew   | ✗          | ✗
