@@ -15,7 +15,7 @@ This is a private project and if it should grow we heavily depend on your assist
 * Please stick to the [template](template/template.md)
 * Please make sure there isn't already a playlist for the radio station on the particular streaming platform
 * Please don't pile up new lists. Rather make a PR for each playlist.
-* If you can only add a playlist for one platform, pleas mention @MarauderXtreme for the Spotify verion or @h4llow3En for the Apple Music verion
+* If you can only add a playlist for one platform, please mention @MarauderXtreme for the Spotify verion or @h4llow3En for the Apple Music verion
 * With adding a playlist you accept to be the primary maintainer of the list
 	* If people report issues, you will get asigned
 	* If you cannot maintain a list anymore, please create an issue and we will try to transfer the ownership
@@ -25,7 +25,7 @@ This is a private project and if it should grow we heavily depend on your assist
 * If a song got removed, please report this problem. We try to update the status as fast as possible
 
 ## Adding new songs and correcting versions
-* If a song comes to a platform or the correct version, please make an issue and provide link or the full title so that the maintainer can find it and include it.
+* If a song or the correct version of it is made availabe for a platform, please report this in an issue and provide link or the full title so that the maintainer is able to include it.
 
 ## Correcting Order
 * Some radio stations have a fixed order in that songs are played. Currectly we don't support ordering the playlist, since worng versions and removals can happen.

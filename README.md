@@ -74,7 +74,7 @@ Here is the list of the currently maintaining authors of the existing playlists:
 - Chris Kepler (@MarauderXtreme) - [Spotify](https://open.spotify.com/user/marauderxtreme)
 - Felix Döring (@h4llow3En) - [Apple Music](https://itunes.apple.com/profile/h4llow3En)
 
-Maybe you want to have a look on our other playlists as well.
+Maybe you want to have a look at our other playlists as well.
 
 ## Is it any good?
 
