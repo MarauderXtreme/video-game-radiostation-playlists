@@ -28,4 +28,4 @@ This is a private project and if it should grow we heavily depend on your assist
 * If a song or the correct version of it is made availabe for a platform, please report this in an issue and provide link or the full title so that the maintainer is able to include it.
 
 ## Correcting Order
-* Some radio stations have a fixed order in that songs are played. Currectly we don't support ordering the playlist, since worng versions and removals can happen.
+* Some radio stations may have a fixed order in which the songs are played. Spotify and Apple Music keep adding and removing songs. Because of that the correct order cannot be achieved in most cases.
