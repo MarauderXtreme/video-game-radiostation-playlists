@@ -62,11 +62,19 @@ Because of that there are indicators in the lists.
 ## Contribute
 
 You found a mistake in one of the lists or a better version of a song or the song is now available. [Let us know](https://github.com/MarauderXtreme/game-radio-playlists/issues/new)  
-Feel free to [add](https://github.com/MarauderXtreme/game-radio-playlists/compare) other radio station and submit them. There is a template which you can use to add other radio stations.
+Feel free to [add](https://github.com/MarauderXtreme/game-radio-playlists/compare) other radio station and submit them. There is a template which you can use to add other radio stations. For more information have a look at the [contribution guidelines](CONTRIBUTION.md)
 
 ## The Future
 
 For now we will continue to add radio stations we like. You are welcome to contribute playlists on other platforms like `Deezer` or `Amazon Music` if this is somehow possible. I don't think, this list qualifies as awesome list, since it is more like a plain list than only `awesome` things. (Well, at least I think these Radio Stations are awesome.)
+
+## The Authors
+
+Here is the list of the currently maintaining authors of the existing playlists:
+- Chris Kepler (@MarauderXtreme) - [Spotify](https://open.spotify.com/user/marauderxtreme)
+- Felix Döring (@h4llow3En) - [Apple Music](https://itunes.apple.com/profile/h4llow3En)
+
+Maybe you want to have a look at our other playlists as well.
 
 ## Is it any good?
 
