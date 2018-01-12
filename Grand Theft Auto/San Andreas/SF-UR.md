@@ -13,7 +13,7 @@ Title                                        | Artist                 | On Spoti
 -------------------------------------------- | ---------------------- | ---------- | --------------
 Promised Land feat. Anthony Thomas           | Joe Smooth             | ✓          | ✓
 Pacific 202                                  | 808 State              | ✓          | ✓
-Voodoo Ray                                   | A Guy Called Gerald    | ✓          | ✓
+Voodoo Ray                                   | A Guy Called Gerald    | ✗          | ✓
 Your Love                                    | Frankie Knuckles       | ✓          | ✓
 Break 4 Love                                 | Raze                   | ✓          | ✓
 Ma Foom Bey                                  | Cultural Vibe          | ✓          | ✓

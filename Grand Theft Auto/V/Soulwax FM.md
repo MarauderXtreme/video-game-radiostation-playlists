@@ -20,7 +20,7 @@
 | Naive Response                          | Daniel Avery                 | ✓          | ✓              |
 | Gabriel (Soulwax Remix) feat. Valentina | Joe Goddard                  | ✓          | ✓              |
 | Body Music (Original Mix)               | Daniel Maloso                | ✓          | ✓              |
-| Lazer Beams                             | Green Velvet & Harvard Bass  | ✗          | ✓              |
+| Lazer Beams                             | Green Velvet & Harvard Bass  | ✓          | ✓              |
 | Tryouts                                 | Zombie Nation                | (✓)        | ✓              |
 | Nothing but Pleasure                    | Tom Rowlands                 | ✓          | ✓              |
 | Arp #1                                  | Jackson and His Computerband | ✓          | ✓              |

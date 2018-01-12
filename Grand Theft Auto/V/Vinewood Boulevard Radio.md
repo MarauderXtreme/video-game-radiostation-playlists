@@ -16,7 +16,7 @@
 | Crawling After You       | Bass Drum of Death   | ✓          | ✓              |
 | This Mystic Decade       | Hot Snakes           | ✓          | ✓              |
 | Sleepwalker              | Moon Duo             | ✓          | ✓              |
-| Fire Doesn't Burn Itself | Sam Flax             | (✓)        | ✓              |
+| Fire Doesn't Burn Itself | Sam Flax             | ✓          | ✓              |
 | California Grrls         | Shark?               | ✓          | ✓              |
 | Black Grease             | The Black Angels     | ✓          | ✓              |
 | Wet Blanket              | METZ                 | ✓          | ✓              |

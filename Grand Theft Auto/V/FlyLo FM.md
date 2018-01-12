@@ -12,7 +12,7 @@ Spotify                                                                         
 Title                                    | Artist                     | On Spotify | On Apple Music
 ---------------------------------------- | -------------------------- | ---------- | --------------
 Getting there feat. Niki Randa           | Flying Lotus               | ✓          | ✓
-Crystals                                 | Clams Casino               | ✗          | ✗
+Crystals                                 | Clams Casino               | ✓          | ✗
 Crosswerved                              | Flying Lotus               | ✗          | ✗
 Be Spin                                  | Flying Lotus               | ✗          | ✗
 See thru to u                            | Flying Lotus & Erykah Badu | ✓          | ✓
