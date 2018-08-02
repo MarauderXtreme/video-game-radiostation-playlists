@@ -25,6 +25,7 @@ In every file you find links to the respective playlist and a table of songs wit
     - [Channel X](Grand%20Theft%20Auto/V/Channel%20X.md)
     - [FlyLo FM](Grand%20Theft%20Auto/V/FlyLo%20FM.md)
     - [Los Santos Rock Radio](Grand%20Theft%20Auto/V/Los%20Santos%20Rock%20Radio.md)
+    - [Los Santos Underground Radio](Grand%20Theft%20Auto/V/Los%20Santos%20Underground%20Radio.md)
     - [Soulwax FM](Grand%20Theft%20Auto/V/Soulwax%20FM.md)
     - [Vinewood Boulevard Radio](Grand%20Theft%20Auto/V/Vinewood%20Boulevard%20Radio.md)
 
@@ -47,6 +48,7 @@ In every file you find links to the respective playlist and a table of songs wit
 #### Sleeping Dogs
 - [Roadrunner Records](Sleeping%20Dogs/Roadrunner%20Records.md)
 - [Warp Radio](Sleeping%20Dogs/Warp%20Radio.md)
+- [Ninja Tune Radio](Sleeping%20Dogs/Ninja%20Tune%20Radio.md)
 
 ## Weakness
 
