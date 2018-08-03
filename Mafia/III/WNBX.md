@@ -1,6 +1,5 @@
 # WNBX
 
-
 ## Playlists
 
 | Spotify                                                                                     | Apple Music  |
