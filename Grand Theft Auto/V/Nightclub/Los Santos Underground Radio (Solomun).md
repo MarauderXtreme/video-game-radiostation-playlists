@@ -16,10 +16,10 @@
 | In The Car Crash (Headgear 'Always Crashing In The Same Car' Mix) | Swayzak               | ✓          | ✓
 | Bitcoins (Original Mix)                                           | D. Lynnwood           | (✓)        | (✓)
 | Don't Stop The Dance (Todd Terje Remix)                           | Bryan Ferry           | ✓          | ✓
-| Madness Of Many                                                   | Denis Horvat          | ✗          | ✗
+| Madness Of Many                                                   | Denis Horvat          | ✓          | ✗
 | Page Blanche                                                      | Johannes Brecht       | ✗          | ✗
 | Ich Muss Los                                                      | Solomun               | ✓          | ✓
-| Monster                                                           | Matthew Dear          | ✗          | ✗
+| Monster                                                           | Matthew Dear          | ✓          | ✗
 | WRKTRX3                                                           | Truncate              | ✓          | ✓
 | Spin (Original Mix)                                               | Floorplan             | ✓          | ✓
 | The Freaks Come Out (Original 2000 Freak Mix)                     | Cevin Fisher          | (✓)        | (✓)
