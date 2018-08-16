@@ -1,4 +1,4 @@
-# Los Santos Underground Radio
+# Los Santos Underground Radio (Solomun)
 
 ## Playlists
 
