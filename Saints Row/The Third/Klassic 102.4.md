@@ -24,7 +24,7 @@
 | Call to the Cows (Willhelm Tell Overtüre)      | Rossini           | ?          | ✗              |
 | The Thieving Magpie Overture                   | Rossini           | ?          | ?              |
 | "Fossils" from The Carnival of the Animals     | Saint-Saëns       | ?          | ?              |
-| Stars and Stripes Forever                      | John Philip Sousa | ✗          | ✓              |
+| Stars and Stripes Forever                      | John Philip Sousa | ?          | ✓              |
 | Die blaue Donau Walzer                         | Strauss           | ?          | ?              |
 | Die Walküre                                    | Wagner            | ?          | ?              |
 | Skater's Waltz                                 | Waldteufel        | ?          | ?              |
