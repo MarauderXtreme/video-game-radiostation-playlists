@@ -24,10 +24,11 @@ In every file you find links to the respective playlist and a table of songs wit
   - [Electro-Choc](Grand%20Theft%20Auto/IV/Electro-Choc.md)
   - [Liberty City Hardcore](Grand%20Theft%20Auto/IV/Liberty%20City%20Hardcore.md)
 - V:
+  - Nightclub
+    - [Solomun Mix](Grand%20Theft%20Auto/V/Nightclub/Los%20Santos%20Undergroud%20Radio%20(Solomun).md)
   - [Channel X](Grand%20Theft%20Auto/V/Channel%20X.md)
   - [FlyLo FM](Grand%20Theft%20Auto/V/FlyLo%20FM.md)
   - [Los Santos Rock Radio](Grand%20Theft%20Auto/V/Los%20Santos%20Rock%20Radio.md)
-  - [Los Santos Underground Radio](Grand%20Theft%20Auto/V/Los%20Santos%20Underground%20Radio.md)
   - [Soulwax FM](Grand%20Theft%20Auto/V/Soulwax%20FM.md)
   - [Vinewood Boulevard Radio](Grand%20Theft%20Auto/V/Vinewood%20Boulevard%20Radio.md)
 
@@ -76,7 +77,7 @@ Because of that there are indicators in the lists.
 ## Contribute
 
 You found a mistake in one of the lists or a better version of a song or the song is now available. [Let us know](https://github.com/MarauderXtreme/game-radio-playlists/issues/new)  
-Feel free to [add](https://github.com/MarauderXtreme/game-radio-playlists/compare) other radio station and submit them. There is a template which you can use to add other radio stations. For more information have a look at the [contribution guidelines](CONTRIBUTION.md)
+Feel free to [add](https://github.com/MarauderXtreme/game-radio-playlists/compare) other radio station and submit them. There is a template which you can use to add other radio stations. For more information have a look at the [contribution guidelines](CONTRIBUTING.md)
 
 ## The Future
 
