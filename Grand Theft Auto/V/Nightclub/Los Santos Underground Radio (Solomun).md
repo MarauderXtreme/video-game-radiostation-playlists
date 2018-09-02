@@ -24,7 +24,7 @@
 | Spin (Original Mix)                                               | Floorplan             | ✓          | ✓
 | The Freaks Come Out (Original 2000 Freak Mix)                     | Cevin Fisher          | (✓)        | (✓)
 | You're Mine (Clean Version)                                       | Chris Lum             | ?          | ✓
-| The Q                                                             | Alex Metric & Ten Ven | ✗          | ✗
+| The Q                                                             | Alex Metric & Ten Ven | ✓          | ✗
 | Customer Is King                                                  | Solomun               | ✓          | ✓
 | Planet 9                                                          | Adam Port             | ✗          | ✗
 | The End To My Beginning                                           | Dubfire               | ✗          | ✗

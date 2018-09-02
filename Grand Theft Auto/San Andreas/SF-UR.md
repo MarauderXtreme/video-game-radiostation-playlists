@@ -18,7 +18,7 @@ Your Love                                    | Frankie Knuckles       | ✓     
 Break 4 Love                                 | Raze                   | ✓          | ✓
 Ma Foom Bey                                  | Cultural Vibe          | ✓          | ✓
 Make My Body Rock                            | Jomanda                | ✓          | ✓
-Someday                                      | CeCe Rogers            | ✗          | ✓
+Someday                                      | CeCe Rogers            | ✓          | ✓
 Let the Music (use you)                      | Nightwriters           | ✓          | ✓
 Can you feel it?                             | Mr. Fingers            | ✓          | ✓
 Move your Body                               | Marshall Jefferson     | ✓          | ✓

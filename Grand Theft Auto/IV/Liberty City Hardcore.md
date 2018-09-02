@@ -28,7 +28,7 @@
 | Dead Embryonic Cells    | Sepultura       | ✓          | ✓              |
 | Blood Fire War Hate     | Soulfly         | ✓          | ✓              |
 | Dead by Dawn            | Deicide         | ✓          | ✓              |
-| I Cum Blood             | Cannibal Corpse | ✓          | (✓)            |
+| I Cum Blood             | Cannibal Corpse | ✗          | (✓)            |
 | ~~Call from the Grave~~ | ~~Bathory~~     | ✓          | ✓              |
 | Awakening of the Gods   | Kreator         | ✓          | ✓              |
 | Fear of Napalm          | Terrorizer      | ✓          | ✓              |
