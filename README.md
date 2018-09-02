@@ -25,7 +25,7 @@ In every file you find links to the respective playlist and a table of songs wit
   - [Liberty City Hardcore](Grand%20Theft%20Auto/IV/Liberty%20City%20Hardcore.md)
 - V:
   - Nightclub
-    - [Solomun Mix](Grand%20Theft%20Auto/V/Nightclub/Los%20Santos%20Undergroud%20Radio%20(Solomun).md)
+    - [Solomun Mix](Grand%20Theft%20Auto/V/Nightclub/Los%20Santos%20Underground%20Radio%20(Solomun).md)
   - [Channel X](Grand%20Theft%20Auto/V/Channel%20X.md)
   - [FlyLo FM](Grand%20Theft%20Auto/V/FlyLo%20FM.md)
   - [Los Santos Rock Radio](Grand%20Theft%20Auto/V/Los%20Santos%20Rock%20Radio.md)
