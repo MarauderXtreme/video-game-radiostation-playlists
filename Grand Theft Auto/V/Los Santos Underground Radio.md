@@ -24,7 +24,7 @@
 | Spin (Original Mix)                                               | Floorplan                             | ✓          | ✓              |
 | The Freaks Come Out (Original 2000 Freak Mix)                     | Cevin Fisher                          | (✓)        | (✓)            |
 | You're Mine (Clean Version)                                       | Chris Lum                             | ?          | ✓              |
-| The Q                                                             | Alex Metric & Ten Ven                 | ✗          | ✗              |
+| The Q                                                             | Alex Metric & Ten Ven                 | ✓          | ✗              |
 | Customer Is King                                                  | Solomun                               | ✓          | ✓              |
 | Planet 9                                                          | Adam Port                             | ✗          | ✗              |
 | The End To My Beginning                                           | Dubfire                               | ✗          | ✗              |
@@ -63,7 +63,7 @@
 | OAR003-B                                                          | Oni Ayhun                             | ✓          |
 | Reach Out Your Hand (Erol Alkan Rework) - GTA Edit                | TCK FT. JG                            | ✗          |
 | Sensation                                                         | Ron Hardy                             | ✓          |
-| Where Ya At                                                       | Derrick Carter                        | (✓)        |
+| Where Ya At                                                       | Derrick Carter                        | ?          |
 | Bugatti                                                           | Tiga                                  | ✓          |
 | Miura                                                             | Metro Area                            | ✓          |
 | A Jealous Heart Never Rests                                       | The Black Madonna                     | ✓          |
