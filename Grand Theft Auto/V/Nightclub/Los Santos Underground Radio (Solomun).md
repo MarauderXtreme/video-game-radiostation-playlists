@@ -4,8 +4,8 @@
 
 | Spotify                                                                                     | Apple Music  |
 | ------------------------------------------------------------------------------------------- | ------------ |
-| [Playlist](https://open.spotify.com/user/marauderxtreme/playlist/6YZJnIXDOHyY0eu6PEFLUQ)    | [Playlist](https://itunes.apple.com/de/playlist/gta-v-los-santos-underground-radio/pl.u-844jTa7v13e) |
-| [Embed](https://open.spotify.com/embed/user/marauderxtreme/playlist/6YZJnIXDOHyY0eu6PEFLUQ) | [Embed](https://embed.music.apple.com/de/playlist/gta-v-los-santos-underground-radio/pl.u-844jTa7v13e?app=music)    |
+| [Playlist](https://open.spotify.com/user/marauderxtreme/playlist/6YZJnIXDOHyY0eu6PEFLUQ)    | [Playlist](https://itunes.apple.com/de/playlist/gta-v-los-santos-underground-radio-solomun/pl.u-gZYmCMEbzdR) |
+| [Embed](https://open.spotify.com/embed/user/marauderxtreme/playlist/6YZJnIXDOHyY0eu6PEFLUQ) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-gZYmCMEbzdR)    |
 
 ## Titles
 
