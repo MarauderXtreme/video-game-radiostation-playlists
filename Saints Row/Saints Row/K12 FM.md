@@ -15,12 +15,12 @@
 | Barrier Break      | Dieselboy and Kaos | ✓          | ✓              |
 | We have the Energy | Evil Nine          | ✓          | ✓              |
 | Amped              | Freq Nasty         | ✓          | ✓              |
-| Ill Logic          | ILS                | ✓          | ✓              |
-| Tiny Toy           | ILS                | ✓          | ✓              |
-| West Coast         | ILS                | ✓          | ✓              |
+| Ill Logic          | ILS                | ✗          | ✓              |
+| Tiny Toy           | ILS                | ✗          | ✓              |
+| West Coast         | ILS                | ✗          | ✓              |
 | Questo É Sporco    | Koma and Bones     | ✓          | ✓              |
 | Twisted Streets    | Koma and Bones     | ✓          | ✓              |
-| Twisted            | PsychatronX        | ✗          | ✗              |
+| Twisted            | PsychatronX        | ✓          | ✗              |
 | Uzi                | Rhythm Division    | ✗          | ✗              |
 | Catherine Wheel    | Skynet             | ✓          | ✓              |
 | Stingray           | Skynet             | ✓          | ✓              |
