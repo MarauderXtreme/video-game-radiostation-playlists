@@ -26,7 +26,7 @@
 | You're Mine (Clean Version)                                       | Chris Lum                             | ?          | ✓              |
 | The Q                                                             | Alex Metric & Ten Ven                 | ✓          | ✗              |
 | Customer Is King                                                  | Solomun                               | ✓          | ✓              |
-| Planet 9                                                          | Adam Port                             | ✗          | ✗              |
+| Planet 9                                                          | Adam Port                             | ✓          | ✗              |
 | The End To My Beginning                                           | Dubfire                               | ✗          | ✗              |
 | You Want It Darker (Solomun Remix)                                | Leonard Cohen                         | ✓          | ✓              |
 | Overture                                                          | Tale of Us                            | ✗          | ✗              |
@@ -61,7 +61,7 @@
 | Sensation (Dub Version)                                           | Ron Hardy                             | ✓          | ✓              |
 | Sharivari (Digital Original Aux 88 Mix)                           | A Number Of Names                     | ✓          | ✓              |
 | OAR003-B                                                          | Oni Ayhun                             | ✓          | ✓              |
-| Reach Out Your Hand (Erol Alkan Rework) - GTA Edit                | TCK FT. JG                            | ✗          | ✗              |
+| Reach Out Your Hand (Erol Alkan Rework) - GTA Edit                | TCK FT. JG                            | ✓          | ✗              |
 | Sensation                                                         | Ron Hardy                             | ✓          | ✓              |
 | Where Ya At                                                       | Derrick Carter                        | ?          | ✓              |
 | Bugatti                                                           | Tiga                                  | ✓          | ✓              |

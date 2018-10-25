@@ -26,7 +26,7 @@ Evil Grin                                | Captain Murphy             | ✗     
 Catapult Man                             | Flying Lotus               | ✗          | ✗
 Encoded Flow                             | Dabrye                     | ✓          | ✓
 She died there                           | Machinedrum                | ✓          | ✓
-It's Wack                                | DJ Rashad and Heavee D     | ✗          | ✗
+It's Wack                                | DJ Rashad and Heavee D     | ✓          | ✗
 Oh sheit it's X                          | Thundercat                 | ✓          | ✓
 Stonecutters                             | Flying Lotus               | ✓          | ✓
 23                                       | Shadow Child               | ✓          | ✓

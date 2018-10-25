@@ -16,7 +16,7 @@
 | Let's beam him up                       | Supersempfft                 | ✓          | ✓              |
 | Mingi                                   | Mim Suleiman                 | ✓          | ✓              |
 | The Strange Art (Inflagranti Remix)     | FKClub                       | ✓          | ✓              |
-| El Sucu Tucu                            | Matias Aguayo                | ✗          | ✓              |
+| El Sucu Tucu                            | Matias Aguayo                | ✓          | ✓              |
 | Naive Response                          | Daniel Avery                 | ✓          | ✓              |
 | Gabriel (Soulwax Remix) feat. Valentina | Joe Goddard                  | ✓          | ✓              |
 | Body Music (Original Mix)               | Daniel Maloso                | ✓          | ✓              |
