@@ -2,10 +2,10 @@
 
 ## Playlists
 
-| Spotify                                                                                                     | Apple Music                                                                                  |
-| ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| [Playlist](https://open.spotify.com/user/marauderxtreme/playlist/3qesLMuh8lbSV3OYLR9KiN)                    | [Playlist](https://itunes.apple.com/de/playlist/saints-row-iv-mad-decent/idpl.u-NRmVTpj4dex) |
-| [Embed](https://embed.spotify.com/?uri=spotify%3Auser%3Amarauderxtreme%3Aplaylist%3A3qesLMuh8lbSV3OYLR9KiN) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-NRmVTpj4dex)                     |
+| Spotify                                                                 | Apple Music                                                              |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [Playlist](https://open.spotify.com/playlist/3qesLMuh8lbSV3OYLR9KiN)    | [Playlist](https://itunes.apple.com/de/playlist/pl.u-NRmVTpj4dex)        |
+| [Embed](https://open.spotify.com/embed/playlist/3qesLMuh8lbSV3OYLR9KiN) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-NRmVTpj4dex) |
 
 ## Titles
 

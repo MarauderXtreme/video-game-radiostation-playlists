@@ -2,10 +2,10 @@
 
 ## Playlists
 
-| Spotify                                                                                                     | Apple Music                                                                                          |
-| ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [Playlist](https://open.spotify.com/user/marauderxtreme/playlist/434485shZDJJ5Xly7nbZsz)                        | [Playlist](https://itunes.apple.com/de/playlist/saints-row-the-krunch-106-66/idpl.u-jZ9gTqoDN7e) |
-| [Embed](https://embed.spotify.com/?uri=spotify%3Auser%3Amarauderxtreme%3Aplaylist%3A434485shZDJJ5Xly7nbZsz) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-jZ9gTqoDN7e)                             |
+| Spotify                                                                 | Apple Music                                                              |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [Playlist](https://open.spotify.com/playlist/434485shZDJJ5Xly7nbZsz)    | [Playlist](https://itunes.apple.com/de/playlist/pl.u-jZ9gTqoDN7e)        |
+| [Embed](https://open.spotify.com/embed/playlist/434485shZDJJ5Xly7nbZsz) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-jZ9gTqoDN7e) |
 
 ## Titles
 
