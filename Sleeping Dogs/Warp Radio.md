@@ -2,10 +2,10 @@
 
 ## Playlists
 
-| Spotify                                                                                                     | Apple Music                                                                                  |
-| ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| [Playlist](https://open.spotify.com/user/marauderxtreme/playlist/0Ha2dkP9BulWDRTBhqeeJH)                    | [Playlist](https://itunes.apple.com/de/playlist/sleeping-dogs-warp-radio/idpl.u-xr62tpKJag7) |
-| [Embed](https://embed.spotify.com/?uri=spotify%3Auser%3Amarauderxtreme%3Aplaylist%3A0Ha2dkP9BulWDRTBhqeeJH) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-xr62tpKJag7)                     |
+| Spotify                                                                 | Apple Music                                                             |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [Playlist](https://open.spotify.com/playlist/0Ha2dkP9BulWDRTBhqeeJH)    | [Playlist](https://itunes.apple.com/de/playlist/pl.u-xr62tpKJag7)       |
+| [Embed](https://open.spotify.com/embed/playlist/0Ha2dkP9BulWDRTBhqeeJH) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-xr62tpKJag7)|
 
 ## Titles
 

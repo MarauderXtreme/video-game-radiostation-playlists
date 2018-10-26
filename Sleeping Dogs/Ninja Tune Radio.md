@@ -2,10 +2,10 @@
 
 ## Playlists
 
-| Spotify                                                                                     | Apple Music  |
-| ------------------------------------------------------------------------------------------- | ------------ |
-| [Playlist](https://open.spotify.com/user/marauderxtreme/playlist/03VOaJRP0pNYZBZictsJKs)    | [Playlist](https://itunes.apple.com/de/playlist/sleeping-dogs-ninja-tune-radio/pl.u-GNW6F8aoX3E) |
-| [Embed](https://open.spotify.com/embed/user/marauderxtreme/playlist/03VOaJRP0pNYZBZictsJKs) | [Embed](https://embed.music.apple.com/de/playlist/sleeping-dogs-ninja-tune-radio/pl.u-GNW6F8aoX3E?app=music)    |
+| Spotify                                                                 | Apple Music                                                              |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [Playlist](https://open.spotify.com/playlist/03VOaJRP0pNYZBZictsJKs)    | [Playlist](https://itunes.apple.com/de/playlist/pl.u-GNW6F8aoX3E)        |
+| [Embed](https://open.spotify.com/embed/playlist/03VOaJRP0pNYZBZictsJKs) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-GNW6F8aoX3E) |
 
 ## Titles
 
