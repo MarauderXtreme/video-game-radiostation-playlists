@@ -2,10 +2,10 @@
 
 ## Playlists
 
-| Spotify                                                                                     | Apple Music  |
-| ------------------------------------------------------------------------------------------- | ------------ |
-| [Playlist](https://open.spotify.com/user/marauderxtreme/playlist/0CBKeLPjwcZwwGoaJFfuL6)    | [Playlist](https://itunes.apple.com/de/playlist/mafia-iii-wnbx/pl.u-KpMVTmoLPAe) |
-| [Embed](https://open.spotify.com/embed/user/marauderxtreme/playlist/0CBKeLPjwcZwwGoaJFfuL6) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-KpMVTmoLPAe)    |
+| Spotify                                                                 | Apple Music                                                              |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [Playlist](https://open.spotify.com/playlist/0CBKeLPjwcZwwGoaJFfuL6)    | [Playlist](https://itunes.apple.com/de/playlist/pl.u-KpMVTmoLPAe)        |
+| [Embed](https://open.spotify.com/embed/playlist/0CBKeLPjwcZwwGoaJFfuL6) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-KpMVTmoLPAe) |
 
 ## Titles
 

@@ -2,10 +2,10 @@
 
 ## Playlists
 
-| Spotify                                                                                     | Apple Music  |
-| ------------------------------------------------------------------------------------------- | ------------ |
-| [Playlist](https://open.spotify.com/user/marauderxtreme/playlist/0idaMMMtfvOpZEyXennOCt)    | [Playlist](https://itunes.apple.com/de/playlist/mafia-ii-empire-central-radio/pl.u-WBYGFvpeKLk) |
-| [Embed](https://open.spotify.com/embed/user/marauderxtreme/playlist/0idaMMMtfvOpZEyXennOCt) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-WBYGFvpeKLk) |
+| Spotify                                                                 | Apple Music                                                              |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [Playlist](https://open.spotify.com/playlist/0idaMMMtfvOpZEyXennOCt)    | [Playlist](https://itunes.apple.com/de/playlist/pl.u-WBYGFvpeKLk)        |
+| [Embed](https://open.spotify.com/embed/playlist/0idaMMMtfvOpZEyXennOCt) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-WBYGFvpeKLk) |
 
 ## Titles
 
