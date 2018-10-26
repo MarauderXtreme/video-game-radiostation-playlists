@@ -2,10 +2,10 @@
 
 ## Playlists
 
-Spotify                                                                                                     | Apple Music
------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------
-[Playlist](https://open.spotify.com/user/marauderxtreme/playlist/7pe3kOMMsBjqfpLygrxHue)                    | [Playlist](https://itunes.apple.com/de/playlist/gta-iv-elektro-choc/idpl.94ae5408bacc440fb6fc29bd997c50a0)
-[Embed](https://embed.spotify.com/?uri=spotify%3Auser%3Amarauderxtreme%3Aplaylist%3A7pe3kOMMsBjqfpLygrxHue) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.94ae5408bacc440fb6fc29bd997c50a0)
+Spotify                                                                 | Apple Music                                                                                
+----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------
+[Playlist](https://open.spotify.com/playlist/7pe3kOMMsBjqfpLygrxHue)    | [Playlist](https://itunes.apple.com/playlist/pl.94ae5408bacc440fb6fc29bd997c50a0)          
+[Embed](https://open.spotify.com/embed/playlist/7pe3kOMMsBjqfpLygrxHue) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.94ae5408bacc440fb6fc29bd997c50a0)
 
 ## Titles
 

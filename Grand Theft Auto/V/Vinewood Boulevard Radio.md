@@ -2,10 +2,10 @@
 
 ## Playlists
 
-| Spotify                                                                                                     | Apple Music                                                                                        |
-| ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| [Playlist](https://open.spotify.com/user/marauderxtreme/playlist/1ulVvIUw2iB3nxeTfxCewK)                    | [Playlist](https://itunes.apple.com/de/playlist/gta-v-vinewood-boulevard-radio/idpl.u-Kp0PumoLPAe) |
-| [Embed](https://embed.spotify.com/?uri=spotify%3Auser%3Amarauderxtreme%3Aplaylist%3A1ulVvIUw2iB3nxeTfxCewK) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-Kp0PumoLPAe)                           |
+| Spotify                                                                 | Apple Music                                                              |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [Playlist](https://open.spotify.com/playlist/1ulVvIUw2iB3nxeTfxCewK)    | [Playlist](https://itunes.apple.com/de/playlist/pl.u-Kp0PumoLPAe)        |
+| [Embed](https://open.spotify.com/embed/playlist/1ulVvIUw2iB3nxeTfxCewK) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-Kp0PumoLPAe) |                           |
 
 ## Titles
 

@@ -2,10 +2,10 @@
 
 ## Playlists
 
-| Spotify                                                                                                     | Apple Music                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| [Playlist](https://open.spotify.com/user/marauderxtreme/playlist/2BlZAh5BnIqbfCiNwPSUNo)                    | [Playlist](https://itunes.apple.com/de/playlist/gta-iv-liberty-city-hardcore/idpl.db3f2bab8b3b47d0ae61a43764fbec2c) |
-| [Embed](https://embed.spotify.com/?uri=spotify%3Auser%3Amarauderxtreme%3Aplaylist%3A2BlZAh5BnIqbfCiNwPSUNo) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.db3f2bab8b3b47d0ae61a43764fbec2c)                         |
+| Spotify                                                              | Apple Music                                                                                 |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| [Playlist](https://open.spotify.com/playlist/2BlZAh5BnIqbfCiNwPSUNo) | [Playlist](https://itunes.apple.com/de/playlist/pl.db3f2bab8b3b47d0ae61a43764fbec2c)        |
+| [Embed](https://open.spotify.com/playlist/2BlZAh5BnIqbfCiNwPSUNo)    | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.db3f2bab8b3b47d0ae61a43764fbec2c) |
 
 ## Titles
 

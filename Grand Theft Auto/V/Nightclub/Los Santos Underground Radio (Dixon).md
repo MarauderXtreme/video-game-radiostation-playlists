@@ -2,10 +2,10 @@
 
 ## Playlists
 
-| Spotify                                                                                                            | Apple Music  |
-| ------------------------------------------------------------------------------------------------------------------ | ------------ |
-| [Playlist](https://open.spotify.com/user/marauderxtreme/playlist/52fwOmd2d5D22Z0gy3Mrn2?si=bhhFzib4RR2_4jJrqDAhZg) | [Playlist](https://itunes.apple.com/de/playlist/gta-v-los-santos-underground-radio-dixon/pl.u-GM9gh8aoX3E) |
-| [Embed](https://open.spotify.com/embed/user/marauderxtreme/playlist/52fwOmd2d5D22Z0gy3Mrn2)                        | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-GM9gh8aoX3E)    |
+| Spotify                                                                 | Apple Music                                                              |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [Playlist](https://open.spotify.com/playlist/52fwOmd2d5D22Z0gy3Mrn2)    | [Playlist](https://itunes.apple.com/de/playlist/pl.u-GM9gh8aoX3E)        |
+| [Embed](https://open.spotify.com/embed/playlist/52fwOmd2d5D22Z0gy3Mrn2) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-GM9gh8aoX3E) |
 
 ## Titles
 

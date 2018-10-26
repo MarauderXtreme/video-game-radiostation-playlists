@@ -2,10 +2,10 @@
 
 ## Playlists
 
-Spotify                                                                                                     | Apple Music
------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------
-[Playlist](https://open.spotify.com/user/marauderxtreme/playlist/6G27UIfTZjfN9sNpln03op)                    | [Playlist](https://itunes.apple.com/de/playlist/gta-v-channel-x/idpl.82958bdc763d4a7898a74b5cfc14afbe)
-[Embed](https://embed.spotify.com/?uri=spotify%3Auser%3Amarauderxtreme%3Aplaylist%3A6G27UIfTZjfN9sNpln03op) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.82958bdc763d4a7898a74b5cfc14afbe)
+Spotify                                                                 | Apple Music                                                                                
+----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------
+[Playlist](https://open.spotify.com/playlist/6G27UIfTZjfN9sNpln03op)    | [Playlist](https://itunes.apple.com/de/playlist/pl.82958bdc763d4a7898a74b5cfc14afbe)       
+[Embed](https://open.spotify.com/embed/playlist/6G27UIfTZjfN9sNpln03op) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.82958bdc763d4a7898a74b5cfc14afbe)
 
 ## Titles
 

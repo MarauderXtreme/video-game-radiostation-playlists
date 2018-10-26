@@ -2,10 +2,10 @@
 
 ## Playlists
 
-Spotify                                                                                                     | Apple Music
------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------
-[Playlist](https://open.spotify.com/user/marauderxtreme/playlist/5StESTqPKTyHh3hxoRyIxx)                    | [Playlist](https://itunes.apple.com/de/playlist/gta-v-los-santos-rock-radio/idpl.8cd989a4098a4999b39029117b6d7923)
-[Embed](https://embed.spotify.com/?uri=spotify%3Auser%3Amarauderxtreme%3Aplaylist%3A5StESTqPKTyHh3hxoRyIxx) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.8cd989a4098a4999b39029117b6d7923)
+Spotify                                                                 | Apple Music
+----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------
+[Playlist](https://open.spotify.com/playlist/5StESTqPKTyHh3hxoRyIxx)    | [Playlist](https://itunes.apple.com/de/playlist/pl.8cd989a4098a4999b39029117b6d7923)
+[Embed](https://open.spotify.com/embed/playlist/5StESTqPKTyHh3hxoRyIxx) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.8cd989a4098a4999b39029117b6d7923)
 
 ## Titles
 

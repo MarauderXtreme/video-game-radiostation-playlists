@@ -2,10 +2,10 @@
 
 ## Playlists
 
-| Spotify                                                                                                     | Apple Music                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| [Playlist](https://open.spotify.com/user/marauderxtreme/playlist/1faEgGbQdnLybKbjGuGfG9)                    | [Playlist](https://itunes.apple.com/de/playlist/gta-san-andreas-radio-x/idpl.e803a694327548549aefc79c9c1cc4fa) |
-| [Embed](https://embed.spotify.com/?uri=spotify%3Auser%3Amarauderxtreme%3Aplaylist%3A1faEgGbQdnLybKbjGuGfG9) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.e803a694327548549aefc79c9c1cc4fa)                    |
+| Spotify                                                                 | Apple Music                                                                                 |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| [Playlist](https://open.spotify.com/playlist/1faEgGbQdnLybKbjGuGfG9)    | [Playlist](https://itunes.apple.com/de/playlist/pl.e803a694327548549aefc79c9c1cc4fa)        |
+| [Embed](https://open.spotify.com/embed/playlist/1faEgGbQdnLybKbjGuGfG9) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.e803a694327548549aefc79c9c1cc4fa) |
 
 ## Titles
 

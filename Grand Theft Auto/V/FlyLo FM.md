@@ -2,10 +2,10 @@
 
 ## Playlists
 
-Spotify                                                                                                     | Apple Music
------------------------------------------------------------------------------------------------------------ | -----------------------------------------------------------------------------------------------------
-[Playlist](https://open.spotify.com/user/marauderxtreme/playlist/6P3sfpBvZQM41tHQY2hl5I)                    | [Playlist](https://itunes.apple.com/de/playlist/gta-v-flylo-fm/idpl.bd333d1b665e4286aff6f5867584fb4f)
-[Embed](https://embed.spotify.com/?uri=spotify%3Auser%3Amarauderxtreme%3Aplaylist%3A6P3sfpBvZQM41tHQY2hl5I) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.bd333d1b665e4286aff6f5867584fb4f)
+Spotify                                                                 | Apple Music                                                                                
+----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------
+[Playlist](https://open.spotify.com/playlist/6P3sfpBvZQM41tHQY2hl5I)    | [Playlist](https://itunes.apple.com/de/playlist/pl.bd333d1b665e4286aff6f5867584fb4f)       
+[Embed](https://open.spotify.com/embed/playlist/6P3sfpBvZQM41tHQY2hl5I) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.bd333d1b665e4286aff6f5867584fb4f)
 
 ## Titles
 
