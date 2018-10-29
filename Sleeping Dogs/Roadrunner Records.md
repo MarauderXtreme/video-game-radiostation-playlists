@@ -2,10 +2,10 @@
 
 ## Playlists
 
-| Spotify                                                                                                     | Apple Music                                                                                          |
-| ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [Playlist](https://open.spotify.com/user/marauderxtreme/playlist/2ceDVb1QscQGDZhbVPkZEo)                    | [Playlist](https://itunes.apple.com/de/playlist/sleeping-dogs-roadrunner-records/idpl.u-2xGLTLzGvDb) |
-| [Embed](https://embed.spotify.com/?uri=spotify%3Auser%3Amarauderxtreme%3Aplaylist%3A2ceDVb1QscQGDZhbVPkZEo) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-2xGLTLzGvDb)                             |
+| Spotify                                                                 | Apple Music                                                              |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [Playlist](https://open.spotify.com/playlist/2ceDVb1QscQGDZhbVPkZEo)    | [Playlist](https://itunes.apple.com/de/playlist/pl.u-2xGLTLzGvDb)        |
+| [Embed](https://open.spotify.com/embed/playlist/2ceDVb1QscQGDZhbVPkZEo) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-2xGLTLzGvDb) |
 
 ## Titles
 
