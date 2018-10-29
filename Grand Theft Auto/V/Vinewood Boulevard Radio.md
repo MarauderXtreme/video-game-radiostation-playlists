@@ -5,7 +5,7 @@
 | Spotify                                                                 | Apple Music                                                              |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | [Playlist](https://open.spotify.com/playlist/1ulVvIUw2iB3nxeTfxCewK)    | [Playlist](https://itunes.apple.com/de/playlist/pl.u-Kp0PumoLPAe)        |
-| [Embed](https://open.spotify.com/embed/playlist/1ulVvIUw2iB3nxeTfxCewK) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-Kp0PumoLPAe) |                           |
+| [Embed](https://open.spotify.com/embed/playlist/1ulVvIUw2iB3nxeTfxCewK) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-Kp0PumoLPAe) |
 
 ## Titles
 
