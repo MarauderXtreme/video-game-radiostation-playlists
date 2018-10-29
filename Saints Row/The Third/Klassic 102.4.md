@@ -2,10 +2,10 @@
 
 ## Playlists
 
-| Spotify                                                                                                     | Apple Music                                                                                             |
-| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| [Playlist](https://open.spotify.com/user/marauderxtreme/playlist/2Jf59eDuTsSdkBt8NsMl3h)                    | [Playlist](https://itunes.apple.com/de/playlist/saints-row-the-third-klassic-102-4/idpl.u-g3NlIMEbzdR) |
-| [Embed](https://embed.spotify.com/?uri=spotify%3Auser%3Amarauderxtreme%3Aplaylist%3A2Jf59eDuTsSdkBt8NsMl3h) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-g3NlIMEbzdR)                               |
+| Spotify                                                                 | Apple Music                                                              |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [Playlist](https://open.spotify.com/playlist/2Jf59eDuTsSdkBt8NsMl3h)    | [Playlist](https://itunes.apple.com/de/playlist/pl.u-g3NlIMEbzdR)        |
+| [Embed](https://open.spotify.com/embed/playlist/2Jf59eDuTsSdkBt8NsMl3h) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-g3NlIMEbzdR) |
 
 ## Titles
 

@@ -2,10 +2,10 @@
 
 ## Playlists
 
-| Spotify                                                                                                     | Apple Music                                                                           |
-| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| [Playlist](https://open.spotify.com/user/marauderxtreme/playlist/3CYd2F77lmPTx9yGrBERJe)                    | [Playlist](https://itunes.apple.com/de/playlist/saints-row-k12-fm/idpl.u-GN5bu8aoX3E) |
-| [Embed](https://embed.spotify.com/?uri=spotify%3Auser%3Amarauderxtreme%3Aplaylist%3A3CYd2F77lmPTx9yGrBERJe) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-GN5bu8aoX3E)              |
+| Spotify                                                                 | Apple Music                                                              |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [Playlist](https://open.spotify.com/playlist/3CYd2F77lmPTx9yGrBERJe)    | [Playlist](https://itunes.apple.com/de/playlist/pl.u-GN5bu8aoX3E)        |
+| [Embed](https://open.spotify.com/embed/playlist/3CYd2F77lmPTx9yGrBERJe) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-GN5bu8aoX3E) |
 
 ## Titles
 
