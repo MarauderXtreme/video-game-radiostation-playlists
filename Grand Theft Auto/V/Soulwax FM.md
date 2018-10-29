@@ -2,10 +2,10 @@
 
 ## Playlists
 
-| Spotify                                                                                                     | Apple Music                                                                                             |
-| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| [Playlist](https://open.spotify.com/user/marauderxtreme/playlist/7eM0fNDkqDPCx3VTMZR3Q1)                    | [Playlist](https://itunes.apple.com/de/playlist/gta-v-soulwax-fm/idpl.049bdc45c3b445338f44487af59b9774) |
-| [Embed](https://embed.spotify.com/?uri=spotify%3Auser%3Amarauderxtreme%3Aplaylist%3A7eM0fNDkqDPCx3VTMZR3Q1) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.049bdc45c3b445338f44487af59b9774)             |
+| Spotify                                                                 | Apple Music                                                                                 |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| [Playlist](https://open.spotify.com/playlist/7eM0fNDkqDPCx3VTMZR3Q1)    | [Playlist](https://itunes.apple.com/de/playlist/pl.049bdc45c3b445338f44487af59b9774)        |
+| [Embed](https://open.spotify.com/embed/playlist/7eM0fNDkqDPCx3VTMZR3Q1) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.049bdc45c3b445338f44487af59b9774) |
 
 ## Titles
 

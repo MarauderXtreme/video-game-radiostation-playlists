@@ -2,10 +2,10 @@
 
 ## Playlists
 
-| Spotify                                                                                     | Apple Music                                                                                                  |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| [Playlist](https://open.spotify.com/user/marauderxtreme/playlist/6YZJnIXDOHyY0eu6PEFLUQ)    | [Playlist](https://itunes.apple.com/de/playlist/gta-v-los-santos-underground-radio-solomun/pl.u-gZYmCMEbzdR) |
-| [Embed](https://open.spotify.com/embed/user/marauderxtreme/playlist/6YZJnIXDOHyY0eu6PEFLUQ) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-gZYmCMEbzdR)                                     |
+| Spotify                                                                 | Apple Music                                                              |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [Playlist](https://open.spotify.com/playlist/6YZJnIXDOHyY0eu6PEFLUQ)    | [Playlist](https://itunes.apple.com/de/playlist/pl.u-gZYmCMEbzdR)        |
+| [Embed](https://open.spotify.com/embed/playlist/6YZJnIXDOHyY0eu6PEFLUQ) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-gZYmCMEbzdR) |
 
 ## Titles
 
