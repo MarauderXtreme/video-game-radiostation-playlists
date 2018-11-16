@@ -11,17 +11,17 @@
 
 | Title                       | Artist                                | On Spotify | On Apple Music |
 | --------------------------- | ------------------------------------- | ---------- | -------------- |
-| Sensation                   | Ron Hardy                             | ✓          | ✓
-| Where Ya At                 | Derrick Carter                        | (✓)        | (✓)
-| Bugatti                     | Tiga                                  | ✓          | ✓
-| Miura                       | Metro Area                            | ✓          | ✓
-| A Jealous Heart Never Rests | The Black Madonna                     | ✓          | ✓
-| Beat Box                    | Art of Noise                          | ✓          | ✓
-| We still Believe            | The Black Madonna ft. Jamie Principle | ✗          | ✗
-| Can't Believe               | Nancy Martin                          | ✗          | ✗
-| Hydraulic Pump Pt. 3        | P-Funk All Stars                      | (✓)        | (✓)
-| Computer Madness            | Steve Poindexter                      | ✓          | ✓
-| Devotion                    | Ten City                              | ✓          | ✓
-| We can never be Apart       | The Black Madonna                     | ✓          | ✓
-| Steppin' Out                | Joe Jackson                           | ✓          | ✓
-| He is the Voice I Hear      | The Black Madonna                     | ✓          | ✓
+| Sensation                   | Ron Hardy                             | ✓          | ✓              |
+| Where Ya At                 | Derrick Carter                        | ✓          | (✓)            |
+| Bugatti                     | Tiga                                  | ✓          | ✓              |
+| Miura                       | Metro Area                            | ✓          | ✓              |
+| A Jealous Heart Never Rests | The Black Madonna                     | ✓          | ✓              |
+| Beat Box                    | Art of Noise                          | ✓          | ✓              |
+| We still Believe            | The Black Madonna ft. Jamie Principle | ✗          | ✗              |
+| Can't Believe               | Nancy Martin                          | ✗          | ✗              |
+| Hydraulic Pump Pt. 3        | P-Funk All Stars                      | (✓)        | (✓)            |
+| Computer Madness            | Steve Poindexter                      | ✓          | ✓              |
+| Devotion                    | Ten City                              | ✓          | ✓              |
+| We can never be Apart       | The Black Madonna                     | ✓          | ✓              |
+| Steppin' Out                | Joe Jackson                           | ✓          | ✓              |
+| He is the Voice I Hear      | The Black Madonna                     | ✓          | ✓              |
