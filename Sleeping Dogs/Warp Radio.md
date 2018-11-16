@@ -19,9 +19,8 @@
 | Dwrcan (Eskmo Remix)               | Bibio                    | ✓          | ✓              |
 | GNG BNG                            | Flying Lotus             | ✓          | ✓              |
 | Parisian Goldfish                  | Flying Lotus             | ✓          | ✓              |
-| My Drum Machine                    | Lorn                     | ✓          | ✓              |
 | Second Scepe                       | Autechre                 | ✓          | ✓              |
-| Alice (Unreleased)                 | Autechre                 | ?          | ✗              |
+| Alice (Unreleased)                 | Clark                    | ✓          | ✗              |
 | The Hammer                         | !!!                      | ✓          | ✗              |
 | Beep Street                        | Squarepusher             | ✓          | ✓              |
 | Lash Out                           | Africa HiTech            | ✓          | ✓              |
