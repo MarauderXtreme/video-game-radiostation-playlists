@@ -17,7 +17,7 @@
 | Bitcoins (Original Mix)                                           | D. Lynnwood           | ✓          | (✓)            |
 | Don't Stop The Dance (Todd Terje Remix)                           | Bryan Ferry           | ✓          | ✓              |
 | Madness Of Many                                                   | Denis Horvat          | ✓          | ✗              |
-| Page Blanche                                                      | Johannes Brecht       | ✓          | ✗              |
+| Page Blanche (Incoherence)                                        | Johannes Brecht       | ✓          | ✗              |
 | Ich Muss Los                                                      | Solomun               | ✓          | ✓              |
 | Monster                                                           | Matthew Dear          | ✓          | ✗              |
 | WRKTRX3                                                           | Truncate              | ✓          | ✓              |
