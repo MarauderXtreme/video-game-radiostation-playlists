@@ -17,7 +17,7 @@
 | Bitcoins (Original Mix)                                           | D. Lynnwood           | ✓          | (✓)            |
 | Don't Stop The Dance (Todd Terje Remix)                           | Bryan Ferry           | ✓          | ✓              |
 | Madness Of Many                                                   | Denis Horvat          | ✓          | ✗              |
-| Page Blanche                                                      | Johannes Brecht       | ✗          | ✗              |
+| Page Blanche                                                      | Johannes Brecht       | ✓          | ✗              |
 | Ich Muss Los                                                      | Solomun               | ✓          | ✓              |
 | Monster                                                           | Matthew Dear          | ✓          | ✗              |
 | WRKTRX3                                                           | Truncate              | ✓          | ✓              |
@@ -27,5 +27,5 @@
 | The Q                                                             | Alex Metric & Ten Ven | ✓          | ✗              |
 | Customer Is King                                                  | Solomun               | ✓          | ✓              |
 | Planet 9                                                          | Adam Port             | ✓          | ✗              |
-| The End To My Beginning                                           | Dubfire               | ✗          | ✗              |
+| The End To My Beginning                                           | Dubfire               | ✓          | ✗              |
 | You Want It Darker (Solomun Remix)                                | Leonard Cohen         | ✓          | ✓              |
