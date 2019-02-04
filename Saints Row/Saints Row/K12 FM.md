@@ -16,8 +16,8 @@
 | We have the Energy | Evil Nine          | ✓          | ✓              |
 | Amped              | Freq Nasty         | ✓          | ✓              |
 | Ill Logic          | ILS                | ✗          | ✓              |
-| Tiny Toy           | ILS                | ✗          | ✓              |
-| West Coast         | ILS                | ✗          | ✓              |
+| Tiny Toy           | ILS                | ✓          | ✓              |
+| West Coast         | ILS                | ✓          | ✓              |
 | Questo É Sporco    | Koma and Bones     | ✓          | ✓              |
 | Twisted Streets    | Koma and Bones     | ✓          | ✓              |
 | Twisted            | PsychatronX        | ✓          | ✗              |
