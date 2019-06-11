@@ -14,7 +14,7 @@
 | A Day in the Life       | Murphy's Law    | ✓          | ✓              |
 | All Your Boyz           | Maximum Penalty | ✓          | ✓              |
 | Back to Back            | Underdog        | ✓          | ✓              |
-| ~~Enforcer~~            | ~~Leeway~~      | ✓          | ✓              |
+| ~~Enforcer~~            | ~~Leeway~~      | ✗          | ✓              |
 | Injustice System        | Sick of It All  | ✓          | ✓              |
 | ~~It's the Limit~~      | ~~Cro-Mags~~    | ✓          | ✓              |
 | Just can't hate Enough  | Sheer Terror    | ✓          | ✓              |
