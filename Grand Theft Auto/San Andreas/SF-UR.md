@@ -11,7 +11,7 @@
 
 | Title                                        | Artist                 | On Spotify | On Apple Music |
 | -------------------------------------------- | ---------------------- | ---------- | -------------- |
-| Promised Land feat. Anthony Thomas           | Joe Smooth             | ✓          | ✓              |
+| Promised Land feat. Anthony Thomas           | Joe Smooth             | (✓)        | ✓              |
 | Pacific 202                                  | 808 State              | ✓          | ✓              |
 | Voodoo Ray                                   | A Guy Called Gerald    | (✓)        | ✓              |
 | Your Love                                    | Frankie Knuckles       | ✓          | ✓              |
