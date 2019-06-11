@@ -63,7 +63,7 @@
 | OAR003-B                                                          | Oni Ayhun                             | ✓          | ✓              |
 | Reach Out Your Hand (Erol Alkan Rework) - GTA Edit                | TCK FT. JG                            | ✓          | ✗              |
 | Sensation                                                         | Ron Hardy                             | ✓          | ✓              |
-| Where Ya At                                                       | Derrick Carter                        | ✓          | ✓              |
+| Where Ya At                                                       | Derrick Carter                        | ✗          | ✓              |
 | Bugatti                                                           | Tiga                                  | ✓          | ✓              |
 | Miura                                                             | Metro Area                            | ✓          | ✓              |
 | A Jealous Heart Never Rests                                       | The Black Madonna                     | ✓          | ✓              |
