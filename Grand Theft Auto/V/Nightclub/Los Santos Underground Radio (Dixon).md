@@ -20,7 +20,7 @@
 | Electro Pharaoh (Instrumental)                     | The Egyptian Lover | (✓)        | (✓)            |
 | Telstar                                            | Marcus L           | ✓          | ✓              |
 | Bring U Up (Deetron Edit)                          | Romanthony         | ✓          | ✓              |
-| 5 Seconds                                          | Solar              | ✗          | ✗              |
+| 5 Seconds                                          | Solar              | ✓          | ✗              |
 | And Dance                                          | Sharif Laffrey     | ✓          | ✓              |
 | Sensation (Dub Version)                            | Ron Hardy          | ✓          | ✓              |
 | Sharivari (Digital Original Aux 88 Mix)            | A Number Of Names  | ✓          | ✓              |
