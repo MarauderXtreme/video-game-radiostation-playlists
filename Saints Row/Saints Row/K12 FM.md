@@ -20,7 +20,7 @@
 | West Coast         | ILS                | ✓          | ✓              |
 | Questo É Sporco    | Koma and Bones     | ✓          | ✓              |
 | Twisted Streets    | Koma and Bones     | ✓          | ✓              |
-| Twisted            | PsychatronX        | ✓          | ✗              |
+| Twisted            | PsychatronX        | ✗          | ✗              |
 | Uzi                | Rhythm Division    | ✗          | ✗              |
 | Catherine Wheel    | Skynet             | ✓          | ✓              |
 | Stingray           | Skynet             | ✓          | ✓              |
