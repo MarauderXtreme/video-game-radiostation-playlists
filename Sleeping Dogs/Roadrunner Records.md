@@ -25,4 +25,4 @@
 | Anthem (We are the Fire)       | Trivium            | ✓          | ✓              |
 | My Curse                       | Killswitch Engage  | ✓          | ✓              |
 | Take what's mine               | The Parlor Mob     | ✗          | ✗              |
-| After all                      | The Parlor Mob     | ✗          | ✗              |
+| After all                      | The Parlor Mob     | ✓          | ✗              |
