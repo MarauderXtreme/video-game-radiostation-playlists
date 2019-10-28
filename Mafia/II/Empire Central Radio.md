@@ -39,7 +39,7 @@
 | Summertime Blues                                  | Eddie Cochran           | ✓          | ✓              |
 | Sh-Boom                                           | The Crew Cuts           | ✓          | ✓              |
 | Not Fade Away                                     | The Crickets            | ✓          | ✓              |
-| Oh Boy!                                           | The Crickets            | ✓          | ✓              |
+| Oh Boy!                                           | The Crickets            | ✓          | ✗              |
 | That'll Be the Day                                | The Crickets            | ✓          | ✓              |
 | At the Hop                                        | Danny & The Juniors     | ✓          | ✓              |
 | Chop Chop Boom                                    | The Danderliers         | ✓          | ✓              |
