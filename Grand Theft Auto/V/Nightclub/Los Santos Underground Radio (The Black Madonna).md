@@ -12,7 +12,7 @@
 | Title                       | Artist                                | On Spotify | On Apple Music |
 | --------------------------- | ------------------------------------- | ---------- | -------------- |
 | Sensation                   | Ron Hardy                             | ✓          | ✓              |
-| Where Ya At                 | Derrick Carter                        | ✗          | (✓)            |
+| Where Ya At                 | Derrick Carter                        | ✗          | ✗              |
 | Bugatti                     | Tiga                                  | ✓          | ✓              |
 | Miura                       | Metro Area                            | ✓          | ✓              |
 | A Jealous Heart Never Rests | The Black Madonna                     | ✓          | ✓              |
