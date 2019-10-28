@@ -13,7 +13,7 @@
 | ---------------------------------------- | -------------------------- | ---------- | -------------- |
 | Getting there feat. Niki Randa           | Flying Lotus               | ✓          | ✓              |
 | Crystals                                 | Clams Casino               | ✗          | ✗              |
-| Crosswerved                              | Flying Lotus               | ✓          | ✗              |
+| Crosswerved                              | Flying Lotus               | ✓          | ✓              |
 | Be Spin                                  | Flying Lotus               | ✗          | ✗              |
 | See thru to u                            | Flying Lotus & Erykah Badu | ✓          | ✓              |
 | The Diddler                              | Flying Lotus               | ✗          | ✗              |
@@ -26,7 +26,7 @@
 | Catapult Man                             | Flying Lotus               | ✗          | ✗              |
 | Encoded Flow                             | Dabrye                     | ✓          | ✓              |
 | She died there                           | Machinedrum                | ✓          | ✓              |
-| It's Wack                                | DJ Rashad and Heavee D     | ✓          | ✗              |
+| It's Wack                                | DJ Rashad and Heavee D     | ✓          | ✓              |
 | Oh sheit it's X                          | Thundercat                 | ✓          | ✓              |
 | Stonecutters                             | Flying Lotus               | ✓          | ✓              |
 | 23                                       | Shadow Child               | ✓          | ✓              |
