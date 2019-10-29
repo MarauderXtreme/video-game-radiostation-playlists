@@ -13,7 +13,7 @@ Title                                   | Artist                             | O
 --------------------------------------- | ---------------------------------- | ---------- | --------------
 Lonely Is the Night                     | Billy Squier                       | ✓          | ✓
 Hollywood Nights                        | Bob Seger & The Silver Bullet Band | ✓          | ✓
-Night Moves                             | Bob Seger & The Silver Bullet Band | ✓          | ✗
+Night Moves                             | Bob Seger & The Silver Bullet Band | ✓          | ✓
 If you leave me now                     | Chicago                            | ✓          | ✓
 Photograph                              | Def Leppard                        | ✓          | (✓)
 Heartbeat                               | Don Johnson                        | ✓          | ✓

@@ -13,8 +13,8 @@
 | ------------------------------------------------ | ------------------- | ---------- | -------- |
 | Bored of you                                     | Agent Orange        | ✓          | ✓        |
 | My War                                           | Black Flag          | ✓          | ✓        |
-| Rock House                                       | Circle Jerks        | ✗          | ✓        |
-| The Mouth don't stop (The Trouble with Women is) | Fear                | ✓          | ✗        |
+| Rock House                                       | Circle Jerks        | ✗          | ✗        |
+| The Mouth don't stop (The Trouble with Women is) | Fear                | ✓          | ✓        |
 | What's next                                      | OFF!                | ✓          | ✓        |
 | Amoeba                                           | Adolescents         | ✓          | ✓        |
 | Pervert                                          | Descendents         | ✓          | ✓        |
