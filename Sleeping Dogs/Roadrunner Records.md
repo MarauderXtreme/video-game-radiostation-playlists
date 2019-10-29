@@ -21,7 +21,7 @@
 | Be still and know              | Machine Head       | ✓          | ✓              |
 | Edgecrusher                    | Fear Factory       | ✓          | ✓              |
 | On the Backs of Angels         | Dream Theater      | ✓          | ✓              |
-| World Scum                     | Soulfly            | ✓          | ✗              |
+| World Scum                     | Soulfly            | ✓          | ✓              |
 | Anthem (We are the Fire)       | Trivium            | ✓          | ✓              |
 | My Curse                       | Killswitch Engage  | ✓          | ✓              |
 | Take what's mine               | The Parlor Mob     | ✗          | ✗              |
