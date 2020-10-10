@@ -4,11 +4,11 @@
 
 <div>
 
-<img src="../../.assets/spotify.svg" alt="Spotify" width="32" height="32" /> [Listen on Spotify](https://open.spotify.com/playlist/2ceDVb1QscQGDZhbVPkZEo)
+<img src="../.assets/spotify.svg" alt="Spotify" width="32" height="32" /> [Listen on Spotify](https://open.spotify.com/playlist/2ceDVb1QscQGDZhbVPkZEo)
 
-<img src="../../.assets/applemusic.svg" alt="Spotify" width="32" height="32" /> [Listen on Apple Music](https://itunes.apple.com/de/playlist/pl.u-2xGLTLzGvDb)
+<img src="../.assets/applemusic.svg" alt="Spotify" width="32" height="32" /> [Listen on Apple Music](https://itunes.apple.com/de/playlist/pl.u-2xGLTLzGvDb)
 
-<img src="../../.assets/youtubemusic.svg" alt="Spotify" width="32" height="32" /> Currently no playlist available
+<img src="../.assets/youtubemusic.svg" alt="Spotify" width="32" height="32" /> Currently no playlist available
 </div>
 
 ## Titles
