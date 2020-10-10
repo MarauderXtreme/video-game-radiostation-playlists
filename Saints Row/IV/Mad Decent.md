@@ -2,10 +2,14 @@
 
 ## Playlists
 
-| Spotify                                                                 | Apple Music                                                              |
-| ----------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [Playlist](https://open.spotify.com/playlist/3qesLMuh8lbSV3OYLR9KiN)    | [Playlist](https://itunes.apple.com/de/playlist/pl.u-NRmVTpj4dex)        |
-| [Embed](https://open.spotify.com/embed/playlist/3qesLMuh8lbSV3OYLR9KiN) | [Embed](https://tools.applemusic.com/embed/v1/playlist/pl.u-NRmVTpj4dex) |
+<div>
+
+<img src="../../.assets/spotify.svg" alt="Spotify" width="32" height="32" /> [Listen on Spotify](https://open.spotify.com/playlist/3qesLMuh8lbSV3OYLR9KiN)
+
+<img src="../../.assets/applemusic.svg" alt="Spotify" width="32" height="32" /> [Listen on Apple Music](https://itunes.apple.com/de/playlist/pl.u-NRmVTpj4dex)
+
+<img src="../../.assets/youtubemusic.svg" alt="Spotify" width="32" height="32" /> Currently no playlist available
+</div>
 
 ## Titles
 
