@@ -2,10 +2,9 @@
 
 ## Playlists
 
-[![Spotify Icon](../../.assets/spotify.svg "Listen on Spotify") Listen on Spotify]()  
-[![Spotify Icon](../../.assets/applemusic.svg "Listen on Apple Music") Listen on Apple Music]()  
-[![Spotify Icon](../../.assets/youtubemusic.svg "Listen on Youtube Music") Listen on Youtube Music]()
-
+[![Spotify Icon](../../.assets/spotify.svg "Listen on Spotify") Listen on Spotify](.)  
+[![Spotify Icon](../../.assets/applemusic.svg "Listen on Apple Music") Listen on Apple Music](.)  
+[![Spotify Icon](../../.assets/youtubemusic.svg "Listen on Youtube Music") Listen on Youtube Music](.)
 
 ## Titles
 
