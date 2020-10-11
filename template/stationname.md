@@ -2,14 +2,9 @@
 
 ## Playlists
 
-<div>
-
-<img src="../.assets/spotify.svg" alt="Spotify" width="32" height="32" /> [Listen on Spotify]()
-
-<img src="../.assets/applemusic.svg" alt="Spotify" width="32" height="32" /> [Listen on Apple Music]()
-
-<img src="../.assets/youtubemusic.svg" alt="Spotify" width="32" height="32" /> [Listen on Youtube Music]()
-</div>
+[![Spotify Icon](../../.assets/spotify.svg "Listen on Spotify") Listen on Spotify]()  
+[![Spotify Icon](../../.assets/applemusic.svg "Listen on Apple Music") Listen on Apple Music]()  
+[![Spotify Icon](../../.assets/youtubemusic.svg "Listen on Youtube Music") Listen on Youtube Music]()
 
 
 ## Titles

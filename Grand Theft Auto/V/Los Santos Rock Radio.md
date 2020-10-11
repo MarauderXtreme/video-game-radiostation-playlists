@@ -2,14 +2,9 @@
 
 ## Playlists
 
-<div>
-
-<img src="../../.assets/spotify.svg" alt="Spotify" width="32" height="32" /> [Listen on Spotify](https://open.spotify.com/playlist/5StESTqPKTyHh3hxoRyIxx)
-
-<img src="../../.assets/applemusic.svg" alt="Spotify" width="32" height="32" /> [Listen on Apple Music](https://itunes.apple.com/de/playlist/pl.8cd989a4098a4999b39029117b6d7923)
-
-<img src="../../.assets/youtubemusic.svg" alt="Spotify" width="32" height="32" /> Currently no playlist available
-</div>
+[![Spotify Icon](../../.assets/spotify.svg "Listen on Spotify") Listen on Spotify](https://open.spotify.com/playlist/5StESTqPKTyHh3hxoRyIxx)  
+[![Spotify Icon](../../.assets/applemusic.svg "Listen on Apple Music") Listen on Apple Music](https://itunes.apple.com/de/playlist/pl.8cd989a4098a4999b39029117b6d7923)  
+[![Spotify Icon](../../.assets/youtubemusic.svg "Listen on Youtube Music") Currently not available - Take maintainership](https://github.com/MarauderXtreme/video-game-radiostation-playlists/fork)
 
 ## Titles
 
