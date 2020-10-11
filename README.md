@@ -88,7 +88,8 @@ Because of that there are indicators in the lists.
 
 ## Contribute
 
-You found a mistake in one of the lists or a better version of a song or the song is now available. [Let us know](https://github.com/MarauderXtreme/game-radio-playlists/issues/new)  
+You found a mistake in one of the lists or a better version of a song or the song is now available.
+[Let us know](https://github.com/MarauderXtreme/game-radio-playlists/issues/new)  
 Feel free to [add](https://github.com/MarauderXtreme/game-radio-playlists/compare) other radio station and submit them.
 There is a template which you can use to add other radio stations.
 For more information have a look at the [contribution guidelines](CONTRIBUTING.md)
@@ -109,6 +110,6 @@ Here is the list of the currently maintaining authors of the existing playlists:
 
 Maybe you want to have a look at our other playlists as well.
 
-## Is it any good?
+## Is it any good
 
 [Yes](https://news.ycombinator.com/item?id=3067434)
