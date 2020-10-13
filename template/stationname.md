@@ -6,7 +6,6 @@
 [![Apple Music Icon](https://user-images.githubusercontent.com/6068259/95839328-2fbfc900-0d43-11eb-896b-78ba8d0f56da.png "Listen on Apple Music") Listen on Apple Music](.)  
 [![Youtube Music Icon](https://user-images.githubusercontent.com/6068259/95839482-5a118680-0d43-11eb-97f5-21338bca84df.png "Listen on Youtube Music") Listen on Youtube Music](.)
 
-
 ## Titles
 
 | Title | Artist | On Spotify | On Apple Music | On Youtube Music |
