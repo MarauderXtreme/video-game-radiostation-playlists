@@ -14,7 +14,7 @@
 | Barrier Break      | Dieselboy and Kaos | ✓          | ✓              |
 | We have the Energy | Evil Nine          | ✓          | ✓              |
 | Amped              | Freq Nasty         | ✓          | ✓              |
-| Ill Logic          | ILS                | ✗          | ✓              |
+| Ill Logic          | ILS                | ✓          | ✓              |
 | Tiny Toy           | ILS                | ✓          | ✓              |
 | West Coast         | ILS                | ✓          | ✓              |
 | Questo É Sporco    | Koma and Bones     | ✓          | ✓              |
