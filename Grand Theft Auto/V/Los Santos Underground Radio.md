@@ -72,6 +72,6 @@
 | Hydraulic Pump Pt. 3                                              | P-Funk All Stars                      | ✓          | (✓)            |
 | Computer Madness                                                  | Steve Poindexter                      | ✓          | ✓              |
 | Devotion                                                          | Ten City                              | ✓          | ✓              |
-| We can never be Apart                                             | The Black Madonna                     | ✓          | ✓              |
+| We can never be Apart                                             | The Black Madonna                     | ✗          | ✓              |
 | Steppin' Out                                                      | Joe Jackson                           | ✓          | ✓              |
 | He is the Voice I Hear                                            | The Black Madonna                     | ✓          | ✓              |
