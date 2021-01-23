@@ -14,7 +14,7 @@
 | Natural States (Edit)                                             | Ara Koufax            | ✓          | ✓              |
 | In The Car Crash (Headgear 'Always Crashing In The Same Car' Mix) | Swayzak               | ✓          | ✓              |
 | Bitcoins (Original Mix)                                           | D. Lynnwood           | ✓          | ✓              |
-| Don't Stop The Dance (Todd Terje Remix)                           | Bryan Ferry           | ✓          | ✓              |
+| Don't Stop The Dance (Todd Terje Remix)                           | Bryan Ferry           | ✗          | ✓              |
 | Madness Of Many                                                   | Denis Horvat          | ✓          | ✓              |
 | Page Blanche (Incoherence)                                        | Johannes Brecht       | ✓          | ✓              |
 | Ich Muss Los                                                      | Solomun               | ✓          | ✓              |
