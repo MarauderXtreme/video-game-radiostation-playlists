@@ -26,7 +26,7 @@
 | Used Blood               | Coliseum             | ✓          | ✓              |
 | Sixpack                  | JEFF the Brotherhood | ✓          | ✓              |
 | Fall in Line             | Mind Spiders         | ✓          | ✓              |
-| Gone For Good            | Nobunny              | ✓          | ✓              |
+| Gone For Good            | Nobunny              | ✗          | ✓              |
 | Turn It Around           | The Men              | ✓          | ✓              |
 | Who Needs You            | The Orwells          | ✓          | ✓              |
 | Answer to Yourself       | The Soft Pack        | ✓          | ✓              |
