@@ -19,7 +19,7 @@ In every file you find links to the respective playlist and a table of songs wit
 ### Cyberpunk 2077
 
 - [88.3 Pacific Dreams](Cyberpunk%202077/88.3%20Pacific%20Dreams.md)
-- [89.3 Radio Vexelstorm](Cyberpunk%202077/89.3%20Radio%20Vexelstorm.md)
+- [89.3 Radio Vexelstrom](Cyberpunk%202077/89.3%20Radio%20Vexelstrom.md)
 - [91.9 Royal Blue Radio](Cyberpunk%202077/91.9%20Royal%20Blue%20Radio.md)
 - [92.9 Night FM](Cyberpunk%202077/92.9%20Night%20FM.md)
 - [95.2 Samizdat Radio](Cyberpunk%202077/95.2%20Samizdat%20Radio.md)
