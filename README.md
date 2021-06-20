@@ -16,6 +16,20 @@ So here we bring you a list of `Video Game Radio Station`.
 
 In every file you find links to the respective playlist and a table of songs with artists that are played on the radio station.
 
+### Cyberpunk 2077
+
+- [88.3 Pacific Dreams](Cyberpunk%202077/88.3%20Pacific%20Dreams.md)
+- [89.3 Radio Vexelstorm](Cyberpunk%202077/89.3%20Radio%20Vexelstorm.md)
+- [91.9 Royal Blue Radio](Cyberpunk%202077/91.9%20Royal%20Blue%20Radio.md)
+- [92.9 Night FM](Cyberpunk%202077/92.9%20Night%20FM.md)
+- [95.2 Samizdat Radio](Cyberpunk%202077/95.2%20Samizdat%20Radio.md)
+- [96.1 Ritual FM](Cyberpunk%202077/96.1%20Ritual%20FM.md)
+- [98.7 Body Heat Radio](Cyberpunk%202077/98.7%20Body%20Heat%20Radio.md)
+- [101.0 The Dirge](Cyberpunk%202077/101.0%20The%20Dirge.md)
+- [103.5 Radio Pebkac](Cyberpunk%202077/103.5%20Radio%20Pebkac.md)
+- [106.9 30 Principales](Cyberpunk%202077/106.9%2030%20Principales.md)
+- [107.3 Morro Rock Radio](Cyberpunk%202077/107.3%20Morro%20Rock%20Radio.md)
+
 ### Gand Theft Auto
 
 - San Andreas:
