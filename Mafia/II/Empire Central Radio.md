@@ -2,9 +2,9 @@
 
 ## Playlists
 
-[![Spotify Icon](https://user-images.githubusercontent.com/6068259/95839470-57169600-0d43-11eb-89e3-6b80e7c64339.png "Listen on Spotify") Listen on Spotify](https://open.spotify.com/playlist/0idaMMMtfvOpZEyXennOCt)  
-[![Apple Music Icon](https://user-images.githubusercontent.com/6068259/95839328-2fbfc900-0d43-11eb-896b-78ba8d0f56da.png "Listen on Apple Music") Listen on Apple Music](https://itunes.apple.com/de/playlist/pl.u-WBYGFvpeKLk)  
-[![Youtube Music Icon](https://user-images.githubusercontent.com/6068259/95839482-5a118680-0d43-11eb-97f5-21338bca84df.png "Listen on Youtube Music") Currently not available - Take maintainership](https://github.com/MarauderXtreme/video-game-radiostation-playlists/fork)
+[![Spotify Icon with the text Listen on Spotify](https://img.shields.io/badge/listen_on-spotify-1ed760?style=for-the-badge&logo=spotify&logoColor=1ed760 "Listen on Spotify")](https://open.spotify.com/playlist/0idaMMMtfvOpZEyXennOCt)  
+[![Apple Music Icon with the text Listen on Apple Music](https://img.shields.io/badge/listen_on-apple_music-fa243c?style=for-the-badge&logo=applemusic&logoColor=fa243c "Listen on Apple Music")](https://itunes.apple.com/de/playlist/pl.u-WBYGFvpeKLk)  
+[![Youtube Music Icon with the text Listen on Youtube Music](https://img.shields.io/badge/listen_on-youtube_music-ff0000?style=for-the-badge&logo=youtubemusic&logoColor=ff0000 "Listen on Youtube Music")](https://music.youtube.com/playlist?list=PLXo8UKP2s9fC1wpRxLjJTBCvplpkdJWDT)
 
 ## Titles
 
