@@ -20,7 +20,7 @@
 | Lexicon Devil                                    | The Germs           | ✓          | ✓        |
 | Life of Crime                                    | The Weirdos         | ✓          | ✓        |
 | Abolish Government/Silent Majority               | T.S.O.L.            | ✓          | ✓        |
-| Blown away                                       | Youth Brigade       | ✗          | ✗        |
+| Blown away                                       | Youth Brigade       | ✓          | ✗        |
 | Subliminal                                       | Suicidal Tendencies | ✓          | ✓        |
 | The Enemy                                        | D.O.A.              | ✓          | ✓        |
 | John Wayne was a Nazi                            | MDC                 | ✓          | ✓        |
