@@ -17,7 +17,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v2
       - name: Markdown Lint
-        uses: nosborn/github-action-markdown-cli@v1.1.1
+        uses: nosborn/github-action-markdown-cli@v3.2.0
         with:
           files: "."
           config_file: ".markdownlint.yml"
