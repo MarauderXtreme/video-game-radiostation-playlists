@@ -69,7 +69,7 @@
 | Beat Box                                                          | Art of Noise                          | ✓          | ✓              |
 | We still Believe                                                  | The Black Madonna ft. Jamie Principle | ✗          | ✗              |
 | Can't Believe                                                     | Nancy Martin                          | ✗          | ✗              |
-| Hydraulic Pump Pt. 3                                              | P-Funk All Stars                      | ✓          | (✓)            |
+| Hydraulic Pump Pt. 3                                              | P-Funk All Stars                      | (✓)        | (✓)            |
 | Computer Madness                                                  | Steve Poindexter                      | ✓          | ✓              |
 | Devotion                                                          | Ten City                              | ✓          | ✓              |
 | We can never be Apart                                             | The Black Madonna                     | ✗          | ✓              |
