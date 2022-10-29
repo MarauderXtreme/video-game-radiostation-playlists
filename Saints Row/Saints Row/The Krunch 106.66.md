@@ -10,7 +10,7 @@
 
 | Title                 | Artist      | On Spotify | On Apple Music |
 | --------------------- | ----------- | ---------- | -------------- |
-| Dancin' On Coals      | Bang Tango  | ✗          | ✗              |
+| Dancin' On Coals      | Bang Tango  | ✓          | ✗              |
 | Love Injection        | Bang Tango  | ✓          | ✓              |
 | Someone Like You      | Bang Tango  | ✓          | ✓              |
 | Once bitten twice shy | Great White | ✓          | ✓              |
